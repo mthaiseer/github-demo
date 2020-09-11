@@ -1,0 +1,16 @@
+public class Abc{
+	
+
+  public String address(){
+<<<<<<< HEAD
+	  return "fayiz villa, orumanayoor";
+=======
+	  return "fayiz villa";
+>>>>>>> 9b60ac7c498ff889be66acdaed20f96c8e2ed6de
+  }
+
+  public String getName(){
+    return "Mohamed Thaiseer";
+  }
+
+}
