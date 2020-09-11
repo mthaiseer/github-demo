@@ -3,10 +3,10 @@ public class Abc{
 
   public String address(){
 <<<<<<< HEAD
-	  return "fayiz villa, orumanayoor";
+	  return "fayiz villa, orumanayoor, INDIA";
 =======
-	  return "fayiz villa";
->>>>>>> 9b60ac7c498ff889be66acdaed20f96c8e2ed6de
+	  return "fayiz villa, orumanayoor, India";
+>>>>>>> c7ad89c... I am making conflicts
   }
 
   public String getName(){

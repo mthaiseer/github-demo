@@ -2,7 +2,7 @@ public class Abc{
 	
 
   public String address(){
-	  return "fayiz villa, orumanayoor, INDIA";
+	  return "fayiz villa, orumanayoor, India";
   }
 
   public String getName(){
